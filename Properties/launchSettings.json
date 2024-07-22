@@ -1,0 +1,11 @@
+{
+  "profiles": {
+    "wslcli": {
+      "commandName": "Project"
+    },
+    "wslcli list": {
+      "commandName": "Project",
+      "commandLineArgs": "list"
+    }
+  }
+}
